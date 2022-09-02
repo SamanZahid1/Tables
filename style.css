@@ -1,0 +1,25 @@
+body{
+    background-color: aqua ;
+    text-align: center;
+}
+h1{
+    color: crimson;
+    font-weight:bold;
+
+}
+input{
+    border-radius: 10px;
+    padding: 7px 14px;
+    border-color: darkolivegreen;
+   
+}
+button{
+    background-color: brown;
+    color: #fff;
+    font-size: 19px;
+    border-radius: 8px;
+}
+p{
+    font-size: 20px;
+    font-weight: 900;
+}
